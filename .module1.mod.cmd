@@ -1,0 +1,1 @@
+cmd_/media/gleb/62609ec7-f3c9-4f67-9f69-102cbfbe1a52/My/module1.mod := { echo  /media/gleb/62609ec7-f3c9-4f67-9f69-102cbfbe1a52/My/module1.o; echo; } > /media/gleb/62609ec7-f3c9-4f67-9f69-102cbfbe1a52/My/module1.mod

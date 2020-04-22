@@ -1,0 +1,1 @@
+cmd_/media/gleb/62609ec7-f3c9-4f67-9f69-102cbfbe1a52/My/module1.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /media/gleb/62609ec7-f3c9-4f67-9f69-102cbfbe1a52/My/module1.ko /media/gleb/62609ec7-f3c9-4f67-9f69-102cbfbe1a52/My/module1.o /media/gleb/62609ec7-f3c9-4f67-9f69-102cbfbe1a52/My/module1.mod.o ;  true
